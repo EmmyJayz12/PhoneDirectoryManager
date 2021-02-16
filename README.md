@@ -1,2 +1,2 @@
 # PhoneDirectoryManager
-Phone Directory
+Phone Directory Manager
